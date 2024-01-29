@@ -1,7 +1,7 @@
 //with password verification
 //pass:hub
-/*Online Voting system
-powered by @iyalex*/
+/* Online Voting system
+powered by @iyalex */
 
 
 #include<bits/stdc++.h>
