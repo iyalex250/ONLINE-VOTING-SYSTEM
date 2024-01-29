@@ -164,7 +164,7 @@ int main()
             cout<<endl;
             cout<<"                            Enter The Password: ";
             cin>>pass;
-            while(strcmp(pass,"mypass")!=0)
+            while(strcmp(pass,"hub")!=0)
             {
               cout<< endl;
               cout<<endl<<"                            Wrong Password! Try Again."<<endl;
